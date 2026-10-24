@@ -1,0 +1,6 @@
+# FatigueSet data is not redistributed here; download it from the original authors
+fatigueset/
+*.csv
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
